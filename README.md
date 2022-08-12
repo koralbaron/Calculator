@@ -3,4 +3,4 @@
 A Calculator program written in Java 
 
 ## Screenshot
-<img src="gameScreenShot.png"  width="40%" height="40%"/>
+<img src="calculator.png"  width="40%" height="40%"/>
