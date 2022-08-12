@@ -1,2 +1,2 @@
 # Calculator
-A Calculator program
+A Calculator program written in Java 
